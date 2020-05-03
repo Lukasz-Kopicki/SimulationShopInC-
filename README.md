@@ -18,7 +18,7 @@ Add to the .txt files the product name, price and number - as it is now, one bel
 <br>
 <h2>How to compile</h2>
 <br>
-<h3>Use a c ++ environment</h3>
+Use a c ++ environment
 <br>
 <h2>License</h2>
 <br>
