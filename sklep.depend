@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579883650 source:c:\users\pc\desktop\projekty\c++\sklepcb\sklep\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
